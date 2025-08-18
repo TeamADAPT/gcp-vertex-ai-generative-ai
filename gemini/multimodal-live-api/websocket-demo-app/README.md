@@ -1,6 +1,6 @@
 # Multimodal Live API Demo
 
-In this tutorial, you will be building a web application that enables you to use your voice and camera to talk to Gemini 2.0 through the [Multimodal Live API](https://cloud.google.com/vertex-ai/generative-ai/docs/model-reference/multimodal-live).
+In this tutorial, you will be building a web application that enables you to use your voice and camera to talk to Gemini 2.5 Flash through the [Multimodal Live API](https://cloud.google.com/vertex-ai/generative-ai/docs/model-reference/multimodal-live).
 
 The [Multimodal Live API](https://cloud.google.com/vertex-ai/generative-ai/docs/model-reference/multimodal-live) is a low-latency bidirectional streaming API that supports audio and video streaming inputs and can output audio.
 
@@ -90,7 +90,7 @@ You can set up this app locally or via Cloud Shell.
 
 1. Connect and interact with the demo:
 
-    - After entering your Access Token and Model ID, press the connect button to connect your web app. Now you should be able to interact with Gemini 2.0 with the Multimodal Live API.
+    - After entering your Access Token and Model ID, press the connect button to connect your web app. Now you should be able to interact with Gemini 2.5 Flash with the Multimodal Live API.
 
 1. To interact with the app, you can do the following:
 
@@ -158,7 +158,7 @@ You can set up this app locally or via Cloud Shell.
 
     - Copy your access token and paste it in the Access Token field in the UI.
     - In the second field of the UI, labeled Project ID, add your Google Cloud Project ID
-    - Press the "Connect" button. Now you should be able to interact with Gemini 2.0 with the Multimodal Live API.
+    - Press the "Connect" button. Now you should be able to interact with Gemini 2.5 Flash with the Multimodal Live API.
 
 1. To interact with the app, you can do the following:
 
@@ -210,7 +210,7 @@ You can set up this app locally or via Cloud Shell.
 
 1. Connect and interact with the demo:
 
-    - After entering your Access Token and Model ID, press the connect button to connect your web app. Now you should be able to interact with Gemini 2.0 with the Multimodal Live API.
+    - After entering your Access Token and Model ID, press the connect button to connect your web app. Now you should be able to interact with Gemini 2.5 Flash with the Multimodal Live API.
 
 1. To interact with the app, you can do the following:
 
