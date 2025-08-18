@@ -24,4 +24,4 @@ The following video demonstrating the Multimodal Live API shows an example use c
 
 ### Demo App
 
-1. [Demo Web Application](websocket-demo-app/README.md): Build a web application that enables you to use your voice and camera to talk to Gemini 2.0 through the Multimodal Live API.
+1. [Demo Web Application](websocket-demo-app/README.md): Build a web application that enables you to use your voice and camera to talk to Gemini 2.5 Flash through the Multimodal Live API.
